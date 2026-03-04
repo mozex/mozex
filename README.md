@@ -4,7 +4,7 @@ I've been building with PHP and Laravel for over 10 years. Most of my work lives
 
 My packages below have been downloaded over 530,000 times, all from organic discovery.
 
-#### Available for Work
+#### Work With Me
 
 I take on consulting and contract projects — Laravel architecture, API design, WooCommerce-to-Laravel migrations.
 
