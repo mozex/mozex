@@ -6,7 +6,6 @@ My packages below have been downloaded over 530,000 times, all from organic disc
 
 #### Available for Work
 
-I take on consulting and contract projects — Laravel architecture, API design,
-WooCommerce-to-Laravel migrations.
+I take on consulting and contract projects — Laravel architecture, API design, WooCommerce-to-Laravel migrations.
 
 **[mozex.dev](https://mozex.dev)** · **[hello@mozex.dev](mailto:hello@mozex.dev)**
