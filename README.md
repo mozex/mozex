@@ -2,7 +2,7 @@
 
 I've been building with PHP and Laravel for over 10 years. Most of my work lives in private repos — production SaaS apps, internal tools, platform migrations — but I open-source the parts that might be useful to others.
 
-My packages below have been downloaded over 530,000 times, all from organic discovery.
+If my packages are useful to you, consider [sponsoring my work](https://github.com/sponsors/mozex).
 
 #### Work With Me
 
